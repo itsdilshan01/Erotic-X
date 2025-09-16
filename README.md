@@ -73,3 +73,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 76d7484 (Initialize project using Create React App)
+>>>>>>>
+>>>>>>> ![WhatsApp Image 2025-09-16 at 14 21 53](https://github.com/user-attachments/assets/0d818467-f031-43a8-a76b-2765da6a20c2)
+![WhatsApp Image 2025-09-16 at 14 21 40](https://github.com/user-attachments/assets/1a9228c9-aaf1-4e6f-bc59-acb20cdabdc2)
+![WhatsApp Image 2025-09-16 at 14 21 31](https://github.com/user-attachments/assets/4d49e032-b42e-4770-a392-4fb4d1d09853)
+![WhatsApp Image 2025-09-16 at 14 21 19](https://github.com/user-attachments/assets/ea69179c-5cc8-4385-a8a2-b4cc69ef24fc)
+![WhatsApp Image 2025-09-16 at 14 21 07](https://github.com/user-attachments/assets/e02778b8-f720-403f-95ff-8afc80d69d64)
+![WhatsApp Image 2025-09-16 at 14 20 14](https://gith![WhatsApp Image 2025-09-16 at 14 25 16](https://github.com/user-attachments/assets/7b75bfac-8db0-43fb-97ee-d5c5170c8f26)
+ub.com/user-attachments/assets/a4cc3ff2-002b-4158-bbeb-fd8d2592f702)
+
