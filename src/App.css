@@ -1,38 +1,14 @@
-.App {
-  text-align: center;
+/* Container wrapper for consistent spacing */
+.app-container {
+  @apply flex min-h-screen;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Main content area (between left + right navs) */
+.main-content {
+  @apply flex-1 px-4 sm:px-6 lg:px-8 py-6;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Video grid layout (used in Home, Films, Trending, etc.) */
+.video-grid {
+  @apply grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4;
 }
